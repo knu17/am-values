@@ -1,6 +1,3 @@
-
--- [[ БАЗА ЦЕН AMVGG: значения Frost; Baseless и RidePot считаются множителем ]]
--- Формы: Regular / Neon / Mega. Массив флагов: {Plain, F, R, FR} (или {Plain})
 local AMVGGDatabase = {
     SystemMultipliers = { Frost = 1, Baseless = 100, RidePot = 166.6 },
     Items = {
